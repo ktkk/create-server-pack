@@ -86,6 +86,11 @@ hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
 metafile = true
