@@ -81,11 +81,6 @@ hash = "833b1287b354055fb177a43dce452e9a2aaf4e40a58529e2e0649bd5d24bfcfe"
 metafile = true
 
 [[files]]
-file = "mods/gravestones.pw.toml"
-hash = "e02e297f397621e1c0d17f6853d5176e23343609e978ac3fd35f1a73d00d509c"
-metafile = true
-
-[[files]]
 file = "mods/indium.pw.toml"
 hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
 metafile = true
@@ -113,6 +108,16 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2c06ee7dc714f27e599c6d383234b1a91b1b47ecfffb7505dbb5fb79d161c5de"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "7377ce5957f537b30a66d18bf5ae6306c8c9640fd2f2ba757c0e5da4598992b6"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "27708d0406a6331122443ca1837e0204d413dccfb19fdba3697db4710a28a242"
 metafile = true
 
 [[files]]
